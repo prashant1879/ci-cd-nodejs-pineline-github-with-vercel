@@ -19,11 +19,10 @@ jobs:
         uses: actions/setup-node@v3
 
       - name: Install npm
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org/'
-
       #INSTALL DEPENDENCIES
       - name: Install dependencies
         run: npm install  
