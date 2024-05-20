@@ -1,7 +1,7 @@
 
 ---
 
-# CI/CD Pipeline for Node.JS/Express.JS Application with GitHub and Vercel
+# CI/CD Pipeline for Node.JS/Express.JS Application with GitHub Actions and Vercel
 
 This repository demonstrates a Continuous Integration and Continuous Deployment (CI/CD) pipeline setup for a Node.js application using GitHub Actions and Vercel. The purpose is to automate the workflow from code commit to deployment, ensuring efficient and error-free releases.
 
@@ -149,9 +149,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. Feel free to customize this project. You can contact me on [skype](skype:prashant1879).
+
 ---
