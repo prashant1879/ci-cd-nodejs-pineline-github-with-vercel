@@ -8,7 +8,7 @@ env:
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   Deploy-development:
     runs-on: ubuntu-latest
